@@ -1,0 +1,22 @@
+[bootstrap]
+main_collection = /main/main.collectionc
+render = /main/our.renderc
+
+[script]
+shared_state = 1
+
+[display]
+width = 1280
+height = 720
+
+[android]
+input_method = HiddenInputField
+
+[project]
+title = Simplest_2D_Lighting
+developer = Pawel Jarosz
+
+[graphics]
+default_texture_min_filter = nearest
+default_texture_mag_filter = nearest
+
